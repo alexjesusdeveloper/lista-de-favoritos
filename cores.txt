@@ -1,0 +1,5 @@
+#FFB140 (orange web)
+#F2FDFF (azure web)
+#36827F (teal)
+#222E50 (space cadet)
+#272727 (raisin black)
